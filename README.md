@@ -10,7 +10,7 @@
 
 > **In short:** this repository bundles the hands-on exercises that took me from Python fundamentals through classical machine learning, deep learning and NLP to LLM fine-tuning, LangChain agents and RAG evaluation. The exercises come from Ironhack's curriculum; the solutions are my own work.
 >
-> For complete, end-to-end projects, see the pinned repositories on [my profile](https://github.com/DarmontDomienAntwerpen).
+> For complete, end-to-end projects, see the pinned repositories on [my profile](https://github.com/DomienDarmontAntwerpen).
 
 ---
 
@@ -39,4 +39,4 @@ Each lab lists its own extra libraries in its first cells. Labs that call an LLM
 
 ## Author
 **Domien Darmont**, AI Engineer, Antwerp, Belgium
-GitHub: [@DarmontDomienAntwerpen](https://github.com/DarmontDomienAntwerpen)
+GitHub: [@DomienDarmontAntwerpen](https://github.com/DomienDarmontAntwerpen)
