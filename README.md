@@ -5,7 +5,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?logo=langchain&logoColor=white)
 
 > **In short:** this repository bundles the hands-on exercises that took me from Python fundamentals through classical machine learning, deep learning and NLP to LLM fine-tuning, LangChain agents and RAG evaluation. The exercises come from Ironhack's curriculum; the solutions are my own work.
@@ -41,8 +41,6 @@ Each lab lists its own extra libraries in its first cells. Labs that call an LLM
 **Domien Darmont**, AI Engineer, Antwerp, Belgium  
 GitHub: [@DomienDarmontAntwerpen](https://github.com/DomienDarmontAntwerpen)  
 LinkedIn: [Domien Darmont](https://www.linkedin.com/in/domien-darmont-b53b7640b/)
-
-A live demo, the project presentation or answers to any questions are available on request.
 
 ## License
 © 2026 Domien Darmont. All rights reserved.
