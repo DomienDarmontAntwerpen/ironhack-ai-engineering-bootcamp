@@ -38,7 +38,7 @@ jupyter lab
 Each lab lists its own extra libraries in its first cells. Labs that call an LLM read the key from the `OPENAI_API_KEY` environment variable.
 
 ## Author
-**Domien Darmont**, AI Engineer, Antwerp, Belgium  
+**Domien Darmont** — Operational leader building applied AI systems, Antwerp, Belgium  
 GitHub: [@DomienDarmontAntwerpen](https://github.com/DomienDarmontAntwerpen)  
 LinkedIn: [Domien Darmont](https://www.linkedin.com/in/domien-darmont-b53b7640b/)
 
