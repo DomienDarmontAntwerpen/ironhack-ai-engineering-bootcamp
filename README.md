@@ -40,7 +40,7 @@ Each lab lists its own extra libraries in its first cells. Labs that call an LLM
 ## Author
 **Domien Darmont** — Operational leader building applied AI systems, Antwerp, Belgium  
 GitHub: [@DomienDarmontAntwerpen](https://github.com/DomienDarmontAntwerpen)  
-LinkedIn: [Domien Darmont](https://www.linkedin.com/in/domien-darmont-b53b7640b/)
+LinkedIn: [Domien Darmont](https://www.linkedin.com/in/domiendarmont/)
 
 ## License
 © 2026 Domien Darmont. All rights reserved.
